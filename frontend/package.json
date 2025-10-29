@@ -1,7 +1,10 @@
 {
-  "name": "feedback-frontend",
+  "name": "student-feedback-frontend",
   "version": "1.0.0",
   "description": "Student Feedback Frontend",
+  "engines": {
+    "node": "18.x"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
